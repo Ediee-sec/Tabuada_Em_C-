@@ -1,0 +1,16 @@
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\bin\Debug\Rascunho.exe.config
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\bin\Debug\Rascunho.exe
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\bin\Debug\Rascunho.pdb
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\obj\Debug\Tabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\obj\Debug\Rascunho.exe
+C:\Users\T-Gamer\Documents\C#\Rascunho\Rascunho\obj\Debug\Rascunho.pdb
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\bin\Debug\Rascunho.exe.config
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\bin\Debug\Rascunho.exe
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\bin\Debug\Rascunho.pdb
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\obj\Debug\Tabuada.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\obj\Debug\Tabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\obj\Debug\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\obj\Debug\Rascunho.exe
+C:\Users\T-Gamer\Documents\C#\Tabuada\Rascunho\obj\Debug\Rascunho.pdb
